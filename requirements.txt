@@ -1,0 +1,5 @@
+dbt-bigquery
+playwright
+pandas
+python-dotenv
+google-cloud-storage
